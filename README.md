@@ -34,33 +34,33 @@ Google hacking, also known as Google dorking, is a technique that involves using
  This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
-!img[img1](/img/site.png)
+![img1](/img/site.png)
 
 #### filetype:
  This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-!img[img1](/img/filetype.png)
+![img1](/img/filetype.png)
 
 
 #### intext:
  This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-!img[img1](/img/intext%20pas.png)
+![img1](/img/intext%20pas.png)
 
 #### inurl:
  This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
-!img[img1](/img/admin.png)
+![img1](/img/admin.png)
 
 #### intitle:
  This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
-!img[img1](/img/indexof.png)
+![img1](/img/indexof.png)
 #### link:
  This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
-!img[img1](/img/link.png)
+![img1](/img/link.png)
 #### cache:
  This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
-!img[img1](/img/Screenshot%202024-09-18%20101802.png)
+![img1](/img/Screenshot%202024-09-18%20101802.png)
  
 #DNS Enumeration
 
