@@ -1,0 +1,5 @@
+# Ignore Windows system directories
+AppData/Local/Application Data/
+AppData/Local/History/
+AppData/Local/Microsoft/Windows/INetCache/
+AppData/Local/Microsoft/Windows/Temporary Internet Files/
